@@ -1,4 +1,4 @@
-# Awesome Global Development [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Global Development [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1010866672.svg)](https://doi.org/10.5281/zenodo.19673358)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -97,11 +97,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Human Rights](https://github.com/awesomelistsio/awesome-human-rights)** – Tools and organizations supporting human rights work.
-- **[Awesome Open Data](https://github.com/awesomelistsio/awesome-open-data)** – Public datasets for development, transparency, and research.
-- **[Awesome Sustainability](https://github.com/awesomelistsio/awesome-sustainability)** – Environmental sustainability tools and solutions.
-- **[Awesome Internet Freedom](https://github.com/awesomelistsio/awesome-internet-freedom)** – Resources to defend open access and digital rights.
-- **[Awesome Civic Tech](https://github.com/awesomelistsio/awesome-civic-tech)** – Technology advancing civic engagement and participation.
+- **[Awesome Human Rights](https://github.com/brandonhimpfen/awesome-human-rights)** – Tools and organizations supporting human rights work.
+- **[Awesome Open Data](https://github.com/brandonhimpfen/awesome-open-data)** – Public datasets for development, transparency, and research.
+- **[Awesome Sustainability](https://github.com/brandonhimpfen/awesome-sustainability)** – Environmental sustainability tools and solutions.
+- **[Awesome Internet Freedom](https://github.com/brandonhimpfen/awesome-internet-freedom)** – Resources to defend open access and digital rights.
+- **[Awesome Civic Tech](https://github.com/brandonhimpfen/awesome-civic-tech)** – Technology advancing civic engagement and participation.
   
 ## Contribute
 
